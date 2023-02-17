@@ -1,8 +1,5 @@
 using DeployEntityFramework.Data;
-using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Net.WebSockets;
 
 var builder = WebApplication.CreateBuilder(args);
 
